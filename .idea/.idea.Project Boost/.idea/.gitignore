@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Project Boost.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\ogopc\Desktop\gameCode\Coursewerk\Project Boost\.idea\.idea.Project Boost\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
